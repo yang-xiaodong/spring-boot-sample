@@ -13,17 +13,16 @@ public class Program {
 
 //        SpringApplication.run(Program.class, args);
 
-    List<String> strList = new ArrayList<>();
+        List<String> strList = new ArrayList<>();
         strList.add("hello world");
-                strList.add("hello world");
-                strList.add("hello world");
-                strList.add("hello world");
-                strList.add("hello yang");
+        strList.add("hello world");
+        strList.add("hello world");
+        strList.add("hello world");
+        strList.add("hello yang");
 
-                int i = strList.indexOf("hello yang");
-                System.out.println(i);
+        int i = strList.indexOf("hello yang");
+        System.out.println(i);
 
 
-
-                }
-                }
+    }
+}
